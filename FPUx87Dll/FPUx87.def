@@ -1,0 +1,5 @@
+LIBRARY FPUx87
+
+; Square root function
+  ; ------======  Double precision  ======------
+    EXPORTS Dbl_FSqrt       ;
