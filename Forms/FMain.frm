@@ -53,6 +53,8 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Explicit
+'https://www.youtube.com/watch?v=HekvDjzDZCo
+'https://www.youtube.com/watch?v=8R5rf-WggVI
 
 Private Sub BtnTestFSqrt_Click()
     Dim r As Double
